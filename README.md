@@ -7,8 +7,8 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/YapZaman/AGCoffeeRatioCaculator/master/privacy/1.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/YapZaman/AGCoffeeRatioCaculator/master/privacy/1.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/SiXinzhen666/Navigation/master/1.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/SiXinzhen666/Navigation/master/2.png"> </td>
 </tr>
 
 <tr>
